@@ -1,0 +1,39 @@
+body {
+    background-image: url(crincle.jpg);
+    background-size: auto;
+}
+.ico{
+    width: 10%;
+}
+.icon{
+    width:3%;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #5f9ea0;
+    position: sticky;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color:#007575;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color:#008b8b;
+    color:#5f9ea0;
+  }
+.menu:hover {
+  color: #5f9ea0;
+  background-color: #008b8b;
+}
